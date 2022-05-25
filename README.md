@@ -31,7 +31,7 @@ const aboutMe = {
         databases: ["PostgreSQL", "MySql", "SQLServer", "MongoDB"],
     },
     architecture: ["Microservices Architecture", "Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentOccupations: ["Full Stack Developer at SweatWorks"],
+    currentOccupations: ["Full Stack Developer at Capgemini"],
 };
 ```
 
