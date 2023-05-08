@@ -26,12 +26,12 @@ const aboutMe = {
             js: ["Node", "Express", "NestJs"],
             java: ["Spring Boot"]
         },
-        cloud: ["AWS", "Azure", "DigitalOcean"],
+        cloud: ["Google Cloud Platform", "Azure", "DigitalOcean"],
         devOps: ["Github Actions", "Docker", "Kubernetes"],
         databases: ["PostgreSQL", "MySql", "SQLServer", "MongoDB"],
     },
     architecture: ["Microservices Architecture", "Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentOccupations: ["Full Stack Developer at Capgemini"],
+    currentOccupations: ["Full Stack Developer at MediaMarkt"],
 };
 ```
 
