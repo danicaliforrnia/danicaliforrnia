@@ -14,7 +14,6 @@
 
 ```javascript
 const aboutMe = {
-    pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Java", "SQL"],
     technologies: {
         mobileApp: ["React Native"],
