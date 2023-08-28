@@ -1,6 +1,6 @@
 <h2><img src="https://media.giphy.com/media/iDOOSqoC0k3VeT9rd5/giphy.gif" width="70">, I'm Daniel Stefanelli!</h2>
 <p>
-  <em>A Software Developer atMediaMarkt Tech Hub BCN.
+  <em>A Software Developer at MediaMarkt Tech Hub BCN.
   </br>
   A Telecommunication Engineer from <a href="http://www.uc.edu.ve/">University of Carabobo, Venezuela</a>.
 </em>
