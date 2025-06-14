@@ -17,17 +17,17 @@ const aboutMe = {
     code: ["Javascript", "Typescript", "Java", "SQL"],
     technologies: {
         mobileApp: ["React Native"],
-        frontEnd: {
+        frontend: {
             js: ["React", "Angular"],
             css: ["Tailwind", "Material UI", "Ant Design"]
         },
-        backEnd: {
+        backend: {
             js: ["Node", "Express", "NestJs"],
             java: ["Spring Boot"]
         },
-        cloud: ["Google Cloud Platform", "Azure", "DigitalOcean"],
-        devOps: ["Github Actions", "Docker", "Kubernetes"],
-        databases: ["PostgreSQL", "MySql", "SQLServer", "MongoDB"],
+        cloud: ["Google Cloud Platform", "Azure"],
+        devOps: ["Github Actions", "Docker", "Kubernetes", "Ansible"],
+        databases: ["PostgreSQL", "MySQL", "SQLServer", "MongoDB"],
     },
     architecture: ["Microservices Architecture", "Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentOccupations: ["Full Stack Developer at MediaMarkt"],
