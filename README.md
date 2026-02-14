@@ -33,9 +33,3 @@ const aboutMe = {
     currentOccupations: ["Full Stack Developer at MediaMarkt"],
 };
 ```
-
-### Some stats
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danicaliforrnia&langs_count=10&theme=tokyonight&layout=compact" alt="danicaliforrnia :: Top Langs" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=danicaliforrnia&show_icons=true&theme=tokyonight" alt="danicaliforrnia :: Profile Stats" /></p>
