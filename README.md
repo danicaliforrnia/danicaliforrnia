@@ -30,6 +30,6 @@ const aboutMe = {
         databases: ["PostgreSQL", "MySQL", "SQLServer", "MongoDB"],
     },
     architecture: ["Microservices Architecture", "Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentOccupations: ["Full Stack Developer at MediaMarkt"],
+    currentOccupations: ["Full Stack Developer at Mitiga Solutions"],
 };
 ```
