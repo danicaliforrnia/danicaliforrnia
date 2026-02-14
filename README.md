@@ -14,11 +14,11 @@
 
 ```javascript
 const aboutMe = {
-    code: ["Javascript", "Typescript", "Java", "SQL"],
+    code: ["Javascript/Typescript", "Java", "SQL"],
     technologies: {
         mobileApp: ["React Native"],
         frontend: {
-            js: ["React", "Angular"],
+            js: ["React", "Next.js", "Angular"],
             css: ["Tailwind", "Material UI", "Ant Design"]
         },
         backend: {
